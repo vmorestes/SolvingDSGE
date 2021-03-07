@@ -4,6 +4,6 @@ This code replicates the results of the paper [A Framework for Solving Non-Linea
 
 ### Authors
 * [Ricardo Masini](https://sites.google.com/site/ricardomasini/) (Center for Statistics and Machine Learning, Princeton University)
-* Victor Orestes(Economics Department, MIT)
+* Victor Orestes (Economics Department, MIT)
 
 
